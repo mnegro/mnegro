@@ -11,5 +11,5 @@ I really like teamwork and constant learning of new technologies and tools, to a
 ![Node](https://img.shields.io/badge/Node-191919)</br>
 
 ## Contact me:
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=www.linkedin.com/in/maximilianonegro&color=blue)]<br>
-[![Email](https://img.shields.io/static/v1?label=Email&message=maximilianonegro22@gmail.com&color=red)]<br>
+![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=www.linkedin.com/in/maximilianonegro&color=blue)<br>
+![Email](https://img.shields.io/static/v1?label=Email&message=maximilianonegro22@gmail.com&color=red)<br>
