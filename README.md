@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 my name is Maxi Negro
 
-<!--
-**mnegro/mnegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##Skills:
+</br>
+</br>
+![.Net core](https://img.shields.io/badge/.Net_core-blue)</br>
+![Angular](https://img.shields.io/badge/Angular-red)</br>
+![SQL](https://img.shields.io/badge/SQL-yellow)</br>
+![Entity_Framework](https://img.shields.io/badge/Entity_Framework-informational)</br>
+![MongoDB](https://img.shields.io/badge/MongoDb-006e00)</br>
+![Node](https://img.shields.io/badge/Node-191919)</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Contact me:
+</br>
+</br>
+![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=www.linkedin.com/in/maximilianonegro&color=blue)<br>
+![Email](https://img.shields.io/static/v1?label=Email&message=maximilianonegro22@gmail.com&color=red)
